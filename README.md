@@ -18,4 +18,5 @@ Factories: StudentFactory and QuoteFactory create and check data.
 Clean Code: Business rules are separate from UI and API code, following SOLID principles.
 
 Settings are stored in config.json (API URL and SSL options). If the file is missing, it uses defaults. The app is secure with certifi for HTTPS and flexible to add new features, like different APIs or storage, without changing the main code.
-\n DEVELOPED BY: ALESIA PETUSHOK, BSUIR GROUP 353505
+
+DEVELOPED BY: ALESIA PETUSHOK, BSUIR GROUP 353505
