@@ -1,0 +1,4 @@
+{
+    "quote_api_url": "https://zenquotes.io/api/random",
+    "ssl_verify": true
+}
